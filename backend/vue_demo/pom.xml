@@ -27,7 +27,7 @@
         <jsoup.version>1.11.3</jsoup.version>
         <commons.io.version>2.5</commons.io.version>
         <ehcache.version>2.10.4</ehcache.version>
-        <junit.versin>4.12</junit.versin>
+        <junit.versin>4.13.1</junit.versin>
     </properties>
 
     <dependencies>
